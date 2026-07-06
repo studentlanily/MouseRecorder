@@ -1,0 +1,11 @@
+# 录制的数据文件
+mouse_record.txt
+
+# Windows 临时文件
+Thumbs.db
+Desktop.ini
+*.tmp
+
+# AutoHotkey 编译文件
+*.exe
+*.ahk~
